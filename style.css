@@ -1,0 +1,129 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 20px ;
+    background-color: black;
+}
+.navbar-style
+{
+    background:black;
+
+}
+.logo
+{
+    height: 48px;
+    padding:  2px 10px;
+}
+.icon-bar
+{
+    background: white;
+}
+li a
+{
+    color: darkorange;
+    font-size: 20px;
+}
+.big-text
+{
+    font-size: 20px;
+    margin: 20px 0;
+    color: whitesmoke;
+}
+a.btn
+{
+    margin: 30px 10px;
+    width: 110px;
+    padding: 10px;
+    border-radius: 10px;
+}
+a.btn-first
+{
+    background-color: darkorange;
+    color: white;
+}
+a.btn-second
+{
+    background: black;
+    border: 1px solid darkorange;
+    color: whitesmoke;
+}
+a.btn:hover
+{
+    background: darkorange;
+    transition:0.3s;
+    
+}
+.banner-info
+{
+    color: whitesmoke;
+    padding-top: 15px;
+}
+
+
+.footer-it
+{
+    background: rgba(7, 214, 214, 0.185);
+    
+    
+}
+.pe
+{
+    background-color:rgb(0, 255, 255);
+    color: black;
+
+}
+.sk{
+    background-color: rgb(40, 62, 190);
+    color: whitesmoke;
+}
+.intro
+{
+
+   background-color: black;
+   height: 650px;
+}
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    
+    border-radius: 50%;
+  }
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+.fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .education
+  {
+      background-color: rgb(55, 187, 62);
+      color: black;
+
+  }
+ video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  
+
+    
+
+
+
+
+
+
