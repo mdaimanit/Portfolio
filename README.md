@@ -1,2 +1,2 @@
 # Portfolio
-My Portfolio site build with HTML and CSS
+My Portfolio site build with HTML and CSS and javascript
